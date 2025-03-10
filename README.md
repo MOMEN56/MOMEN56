@@ -41,6 +41,6 @@
 
 ###
 
-<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ0YnFkMHZhejVrenFreDZrZHY3azlicHBrZzIzdTRoZmh1cTc5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif"  />
+<img align="left" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ0YnFkMHZhejVrenFreDZrZHY3azlicHBrZzIzdTRoZmh1cTc5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif"  />
 
 ###
