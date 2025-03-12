@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MOMEN56&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MOMEN56&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ0YnFkMHZhejVrenFreDZrZHY3azlicHBrZzIzdTRoZmh1cTc5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif"  />
+  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ0YnFkMHZhejVrenFreDZrZHY3azlicHBrZzIzdTRoZmh1cTc5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif"  />
 </div>
 
 ###
